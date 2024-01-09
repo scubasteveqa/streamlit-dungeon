@@ -23,7 +23,7 @@ import time
 # ------------------------------------------------------------
 
 st.set_page_config(
-    page_title="The Dungeon", page_icon="🗡️", initial_sidebar_state="collapsed"
+    page_title="The Dungeon from not main", page_icon="🗡️", initial_sidebar_state="collapsed"
 )
 
 @st.cache_resource
